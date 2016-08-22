@@ -1,0 +1,51 @@
+#header-nav {
+    background-color: #c2d6d6;
+    border-radius: 0;
+    border: 0;
+}
+
+.navbar-brand h1 {
+    /* Restaurant name */
+    font-family: 'Lora', serif;
+    color: #000099;
+    font-size: 1.5em;
+    text-transform: uppercase;
+    font-weight: bold;
+    text-shadow: 1px 1px 1px #222;
+    margin-top: 0;
+    margin-bottom: 0;
+    line-height: .75;
+}
+
+#menu_item {
+    border: 1px solid black;
+}
+#nav-list a {
+    color: #000099;
+    background: #81D4F0;
+}
+#nav-list a:hover {
+    background: #E7E7E7;
+}
+#nav-list a {
+    font-size: 1.8em;
+}
+.menu_items {
+    font-family: Helvetica, sans-serif;
+    color: yellow;
+    background: gray;
+    border: 1px solid black;
+    margin: 1%;
+}
+#chicken {
+    color: #000099;
+    background-color: pink;
+}
+#beef {
+    color: #000099;
+    background-color: red;
+}
+#sushi {
+    color: #000099;
+    background-color: yellow;
+}
